@@ -1,21 +1,26 @@
 # M2Guard Documentation
 
-Technical documentation and security resources for Metin2 private servers.
+Technical documentation for Metin2 private server security system.
 
-## Documentation
+## Modules
 
 - [DLL Protection](docs/dll-protection.md)
 - [Speed Detection](docs/speed-detection.md)
+- [Packet Security](docs/packet-security.md)
+- [Bot Detection](docs/bot-detection.md)
+- [Client Integrity](docs/client-integrity.md)
+- [Exploit Prevention](docs/exploit-prevention.md)
 
-## Topics
+## Overview
 
-This repository includes technical notes related to:
+M2Guard provides runtime protection and security validation for Metin2 private servers.
 
-- Runtime protection
-- Client validation
-- Packet security
-- Gameplay synchronization
-- Bot prevention
+Focus areas:
 
-Official Website:
+- Client protection
+- Packet validation
+- Bot detection
+- Exploit prevention
+
+Official:
 https://m2guard.cc
