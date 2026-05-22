@@ -22,5 +22,6 @@ Focus areas:
 - Bot detection
 - Exploit prevention
 
-Official:
-https://m2guard.cc
+
+Official Website: https://m2guard.cc
+Documentation: https://m2guardlab.github.io/m2guard-docs/
