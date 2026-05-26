@@ -1,3 +1,7 @@
+![Docs](https://img.shields.io/badge/docs-online-brightgreen)
+![Security](https://img.shields.io/badge/security-active-blue)
+![Status](https://img.shields.io/badge/status-maintained-success)
+
 # M2Guard Documentation
 
 Technical documentation for Metin2 private server security system.
